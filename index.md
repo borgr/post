@@ -1,6 +1,19 @@
 <!-- # Ways to sieve through new papers and look for related ones -->
 
-This project lists ideas to how to get updated and hear of new papers. Feel free to use any of the tools and share new tools that you created\found\use.
+Some of us were happy in our safe place, doing our research for years. Then suddenly, we need to uproot ourselves, and no one tells us how.
+This guide covers all of [my](https://ktilana.wixsite.com/leshem-choshen) findings before eventually going for my post in Natural Language Processing and Machine Learning (Computer Science). Why do I matter in all that? because postdocs are very individual and also have 
+## Who to talk to
+
+## What to look for
+It boils down to 3 questions.  
+What allows the best research during my post?
+What do I need to **get** the **job** I want after the post (I assume here, academic or PI in an institute)?
+What would help me **after** I get this job?
+Note: yes, there are many reasons, many, not to get the post that maximizes all of the above, but I can't tell you where your wife would be happiest or where they offer more money.
+## Time
+
+## Writing Emails
+
 
 ## Trends
 - Follow what is hot in papers with code [Link](https://paperswithcode.com/top-social?num_days=30),  [Tweet about](https://twitter.com/omarsar0/status/1483045014800318468?s=20)

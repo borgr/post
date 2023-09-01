@@ -7,7 +7,7 @@ You must be thinking there are so many better guides out there, I hope you are r
 
 ## Who to Talk to
 - Consider your future career, this decision would likely affect your few next years -- talk to **someone doing it**
-- You would want a position -- talk to someone who **just got the position **
+- You would want a position -- talk to someone who **just got the position**
 Ask them what were they asked about, what were people interested impressed etc.
 - Also ask the ones deciding on such positions, those are usually **senior researchers**
 Remember, you are no longer one of the thousands doing a BA, they are not flooded with requests for help and most decent people would gladly give you a hand. Moreover, it might even be an opportunity for you to get known, to tell them of your plans so they will have you in mind. Last, we are still irrational machines, asking for help, paradoxically, makes you closer and might help when you ask for help next time, and you might need their help applying when you get back.

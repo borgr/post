@@ -38,9 +38,12 @@ You don't need all of those, but those are advantages that might be good to tick
 ### Post's Affect Post Being Hired
 As a professor, you would apply for (non-anonymous) grants of all sorts. The committee members would not be necessarily from your sub-field or even from your field, depending on who are you competing against, and you probably have less advantage as you compete against more. So the committee members would not know your supervisor, and they might not know if your research is impressive, they would know how many citations you had, and that you have been in Stanford. So for this, location is much more important than the supervisor's name.
 ## Time
-
+With some luck, you can move in 3 months. However, if you find your best match but they have no money, sometimes you can apply for a grant together. For this, about a year in advance may help you. Also note fellowships are submitted once a year, so you need to time that as well. Last, note that some place would require you to have the PhD approved and not only submitted which may take many months, check that in advance.
 ## Writing Emails
-
+Know why you chose them, say what makes you special and also what makes them special for you. Generic emails (and apparently mentioning a paper or two is still generic for professors).
+If you have a connection who can introduce you or you already know the host, it is always better.
+Some professors would like a reminder if they haven't answered, others ignored you on purpose (but if you ask me, they can ignore you again if they need to)
+Expect 1\3 to even 1\10 not to even answer your emails, professors are busy, have sabbaticals etc.
 ## You Need to Decide
 Postdocs vary a bit more than a degree. Still, there are 3 main types of postdocs and you should choose which one(s) suits you.  
 **Extended PhD** -- You are a senior researcher, keep doing your research.  

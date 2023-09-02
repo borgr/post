@@ -1,20 +1,21 @@
 <!-- # Ways to sieve through new papers and look for related ones -->
 
-Some of us were happy in our safe place, wrapped in our research for years. Then suddenly, we need to unpack and look for adventures. But how? Why wasn't _that_ taught on the course?
-This guide covers all of [my](https://ktilana.wixsite.com/leshem-choshen) findings before eventually going for my post in Natural Language Processing and Machine Learning (Computer Science). Why do I matter in all that? because postdocs are very individual and fields and countries may alter some of the suggestions.
+Found yourself comfortably cocooned in research, only to realize it's time to venture into the great unknown of postdoc life? Thinking, why didn't they teach us this stuff?
+Been there, done that. This guide covers all of [my](https://ktilana.wixsite.com/leshem-choshen) meta-findings. I should mention my expertise: NLP and Machine Learning (Computer Science), and Why do I mention it? because postdocs are very individual and fields and origin countries (Israel) may alter some of the suggestions.
 
-You must be thinking there are so many better guides out there, I hope you are right. can you share them or add here the best tips you found? Let's make it great for us all.
+Now, you're probably thinking, "There must be better guides out there." I hope you are right, share them or add here the best tips you found! Let's make it epic, for us all.
 
 ## Who to Talk to (Do Your Research)
-First, before looking for a post, get more information to prevent making errors.
-- Consider your future career, this decision would likely affect your few next years -- talk to **someone doing it**
+Before you dive into the hunt, get more information, from guides like this, sure, but also discuss it with your peers:
+- Consider your future career -- talk to **someone doing it**
 - You would want a position -- talk to someone who **just got the position**
 Ask them what were they asked about, what were people interested impressed etc.
 - Also ask the ones deciding on such positions, those are usually **senior researchers**
-- Some people will be very friendly but noncomittal. It is fluid and complex and outcomes are hard to predict, true, but ask someone else until it is helpful.
+- Some people will be very friendly but noncommittal. Posts are fluid and complex and outcomes are hard to predict. True, but there are patterns in this chaos. Ask someone else.
 Remember, you are no longer one of the thousands doing a BA, they are not flooded with requests for help and most decent people would gladly give you a hand. Moreover, it might even be an opportunity for you to get known, to tell them of your plans so they will have you in mind. Last, we are still irrational machines, asking for help, paradoxically, makes you closer and might help when you ask for help next time, and you might need their help applying when you get back.
 
-How do I know I am ready for doing and not only researching? When you feel the advice you get generally repeat once you've heard. Time to embrace the partial information and look for a post. But before we send you to [send emails](#writing-emails), here are our tips to reach this enlightened point fast.
+How do I know I am done with information gathering? When you feel the advice you start repeating themselves, it's time to embrace the partial information and look for a post. But before we send you to [send emails](#writing-emails), here are our tips to reach this enlightened point fast.
+
 ## What to Look for
 It boils down to 3 questions: 
 What allows the **best research** during my post?  
@@ -26,17 +27,17 @@ Notes:
 1. You will never get everything, but each checkmark here would be an advantage.
 ### Good for Research
 This is a very individualistic choice, but (arguably?) the most important one, so take the other choices with grain and salt.
-One interesting and repeating piece of advice for many reasons is to look for a "hub". Consider who else is around, eventually, you might collaborate with more than your supervisor, you might learn, or influence or find more opportunities with more people around, and importantly, if something happens with your host, will the postdoc be considered a failure? Ensure you are confident you do not rely on one person too much.
+One interesting and repeating piece of advice for many reasons is to look for a "hub". Consider who else is around, eventually, you might collaborate with more than your supervisor, you might learn, influence, or share or find more opportunities with more people around, and importantly, if something happens with your host, will the postdoc be considered a failure? Ensure you are confident you do **_not_ rely on one person** too much.
 ### Academic Job Checklist
 You don't need all of those, but those are advantages that might be good to tick
-- First your research impact (citations, venues etc.), some teaching experience also a bonus  
-- A good recommendation letter from someone senior (tenure+ known in the field)  
-- A known institute (yes, some would appreciate the university, regardless of the advisor)  
+- Your **research impact** (citations, venues etc.), some teaching experience also a bonus  
+- A good **recommendation letter** from someone senior (tenure+ known in the field)  
+- A **known institute** (yes, some would appreciate the university, regardless of the advisor)  
 - Proof of making a large investment in research, "living it, living for it" (e.g., moving abroad and being immersed in research)  
-- Proof of diverse abilities, one trick ponies are a risk, maybe they won't be able to replicate their success in the future  
+- Proof of diverse abilities, one trick ponies are a risk for the hiring committee, maybe they won't be able to replicate their success in the future  
 - Research Agenda, at least one thread of research a relatable direction you might keep pursuing and they see how it complements the faculty  
-- Researcher on your own, were all your research piggy-back? All with the mark of your advisor or two? Can you collaborate with others? Lead or only join a running project etc.  
-- Proof of excellence (Especially Grants and Scholarships which you will apply to more as a Prof.)  
+- Researcher on your own, were all your research piggyback? All with the mark of an advisor or two? Can you collaborate with others? Lead? or only join a running project etc.  
+- Proof of excellence (Especially, Grants and Scholarships which may predict whether you will manage to get funds as a Prof.)  
 
 ### Post's Affect Post Being Hired
 As a professor, you would apply for (non-anonymous) grants of all sorts. The committee members would not be necessarily from your sub-field or even from your field, depending on who are you competing against, and you probably have less advantage as you compete against more. So the committee members would not know your supervisor, and they might not know if your research is impressive, they would know how many citations you had, and that you have been in Stanford. So for this, location is much more important than the supervisor's name.
@@ -48,7 +49,7 @@ Expect 1\3 to even 1\10 not to even answer your emails, professors are busy, hav
 ## You Need to Decide
 Postdocs vary a bit more than a degree. Still, there are 3 main types of postdocs and you should choose which one(s) suits you.  
 **Extended PhD** -- You are a senior researcher, keep doing your research.  
-**Grant based** -- The funding for the post comes from a large project, it has the advantage of security, being able to advise and lead a large project, but the disadvantage is that it comes with less freedom, at least a major part of your time should be dedicated for this project.  
+**Grant based** -- The funding for the post comes from a large project, it has the advantage of security, being able to advise and lead a large project, but the disadvantage is that it comes with less freedom, at least a major part of your time should be dedicated for this project. Such positions are often shared somewhere as they actively look for someone to fill this role. Ask around to find out where to find those (Twitter? word to mouth-> ask many people if they know? Can you share that you look and they will contact you? mailing lists?)
 **Advise** -- Mostly in large labs, postdocs act as the ones leading research and advising, it offers a lot of freedom and little help or intervention from above. Remember you are still expected to publish at least a bit as a first author.  
 
 ## Time
@@ -61,5 +62,5 @@ Some areas may have real postdocs with institutes or companies. Those might or m
 
 
 Site [url](https://borgr.github.io/post/)  
-[Github](https://github.com/borgr/post/)
+[Github](https://github.com/borgr/post/)  
 Author: Leshem Choshen [Site](https://ktilana.wixsite.com/leshem-choshen) [Twitter](https://twitter.com/LChoshen)

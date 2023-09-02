@@ -60,7 +60,8 @@ Look for fellowship related to your background (e.g., women's), to the place you
 ## Industry
 Some areas may have real postdocs with institutes or companies. Those might or might not be holding prestige, check. Usually, they would pay better. Apart from that, make sure what kind of postdoc are you expected to do there. Is it really focused on research (nothing else would count)? Would you be able to fill the checklist (e.g., get a meaningful letter from someone appreciated in academia)?
 
-
+## Recommended Sources:
+  TBD
 Site [url](https://borgr.github.io/post/)  
 [Github](https://github.com/borgr/post/)  
 Author: Leshem Choshen [Site](https://ktilana.wixsite.com/leshem-choshen) [Twitter](https://twitter.com/LChoshen)

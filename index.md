@@ -16,7 +16,7 @@ Remember, you are no longer one of the thousands doing a BA, they are not floode
 
 How do I know I am done with information gathering? When you feel the advice you start repeating themselves, it's time to embrace the partial information and look for a post. But before we send you to [send emails](#writing-emails), here are our tips to reach this enlightened point fast.
 
-## What to Look for
+## What to Look for in a postdoc
 It boils down to 3 questions: 
 What allows the **best research** during my post?  
 What do I need to **get the job** I want after the post (I assume here, academic or PI in an institute)?  
@@ -39,13 +39,18 @@ You don't need all of those, but those are advantages that might be good to tick
 - Researcher on your own, were all your research piggyback? All with the mark of an advisor or two? Can you collaborate with others? Lead? or only join a running project etc.  
 - Proof of excellence (Especially, Grants and Scholarships which may predict whether you will manage to get funds as a Prof.)  
 
-### Post's Affect Post Being Hired
+### Post's Effect -- Post Being Hired
 As a professor, you would apply for (non-anonymous) grants of all sorts. The committee members would not be necessarily from your sub-field or even from your field, depending on who are you competing against, and you probably have less advantage as you compete against more. So the committee members would not know your supervisor, and they might not know if your research is impressive, they would know how many citations you had, and that you have been in Stanford. So for this, location is much more important than the supervisor's name.
-## Writing Emails
+## Contact Potential hosts
+### Writing Emails
 Know why you chose them, say what makes you special and also what makes them special for you. Generic emails (and apparently mentioning a paper or two is still generic for professors).
 If you have a connection who can introduce you or you already know the host, it is always better.
 Some professors would like a reminder if they haven't answered, others ignored you on purpose (but if you ask me, they can ignore you again if they need to)
 Expect 1\3 to even 1\10 not to even answer your emails, professors are busy, have sabbaticals etc.
+### Meeting (optional)
+People communicate better face-to-face. At the initial lookout stage, if you have the opportunity (e.g., at a conference or a trip going through one or many universities), suggest meeting and discussing opportunities for your post. Professors are often busy, so you probably should set a meeting and not count on fate.
+
+Another stage where you might consider meeting directly, is when you approach closing with a host or a few. You might consider giving a talk. This will allow you to meet with the people around, see the surroundings, the university, the town, and meet the host. Financially,  adding it to a conference, the host, or your current lab may (or may not) help.
 ## You Need to Decide
 Postdocs vary a bit more than a degree. Still, there are 3 main types of postdocs and you should choose which one(s) suits you.  
 **Extended PhD** -- You are a senior researcher, keep doing your research.  
@@ -61,7 +66,9 @@ Look for fellowship related to your background (e.g., women's), to the place you
 Some areas may have real postdocs with institutes or companies. Those might or might not be holding prestige, check. Usually, they would pay better. Apart from that, make sure what kind of postdoc are you expected to do there. Is it really focused on research (nothing else would count)? Would you be able to fill the checklist (e.g., get a meaningful letter from someone appreciated in academia)?
 
 ## Recommended Sources:
-  TBD
+  TBD  
+## About the authors
+Author: Leshem Choshen [Site](https://ktilana.wixsite.com/leshem-choshen) [Twitter](https://twitter.com/LChoshen)
+
 Site [url](https://borgr.github.io/post/)  
 [Github](https://github.com/borgr/post/)  
-Author: Leshem Choshen [Site](https://ktilana.wixsite.com/leshem-choshen) [Twitter](https://twitter.com/LChoshen)

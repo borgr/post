@@ -14,6 +14,7 @@ Before you dive into the hunt, get more information, from guides like this, sure
 Ask them what were they asked about, what were people interested impressed etc.
 - Also ask the ones deciding on such positions, those are usually **senior researchers**
 - Some people will be very friendly but noncommittal. Posts are fluid and complex and outcomes are hard to predict. True, but there are patterns in this chaos. Ask someone else.
+- Whoever wants to listen -- like jobs, you never know who has just heard of an opportunity, make others know you are looking.
 Remember, you are no longer one of the thousands starting their research. Professors are not flooded with such requests for help and most decent people would gladly give you a hand. Moreover, it might even be an opportunity for you to get known and to share your plans so they will have you in mind. Last, we are still irrational machines, asking for help, paradoxically, makes you closer and might help when you ask for help next time, and you might need their help applying when you get back.
 
 How do I know I am done with information gathering? When you feel the advice you receive starts repeating itself, it's time to embrace the partial information and look for a post. But before we send you to [send emails](#writing-emails), here are our tips to reach this enlightened point fast.

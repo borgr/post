@@ -24,6 +24,7 @@ It boils down to 3 questions:
 What allows the **best research** during my post?  
 What do I need to **get the job** I want after the post (I assume here, academic or PI in an institute)?  
 What would help me **perform the job after** I get it? (skills as opposed to CV)
+A special occasion is (US mainly?) when someone already has a faculty position and defers just to get grants before starting, except for prestige and someone with massive grant experience (large labs), I'm not sure there is much to it and won't discuss it here (unless someone will add their own insights).
 
 Notes:
 1. Yes, there are many reasons, many, not to get the post that maximizes all of the above, but I can't tell you where your wife would be happiest or where they offer more money. Definitely start with what would make you (and everyone coming with you!) happy and among those options maximize the other things.

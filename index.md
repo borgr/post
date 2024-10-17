@@ -67,7 +67,7 @@ With some luck, you can move in **3 months**. However, if you find your best mat
 Apply early for Scholarships, it is worth it for the prestige, and maybe the money. If you got one, it might be worth revisiting the places you wanted to go to and couldn't or didn't answer, maybe with the funds (even partial ones) it might be easier to open a position and acquire the rest of the funds (matching).
 Look for fellowship related to your background (e.g., women's), to the place you are looking for (e.g., Fullbright if you got to the US), and also to places you consider going to (many universities or institutions have fellowships (e.g., NYU center of data science).
 ## Industry
-Some areas may have real postdocs with institutes or companies. Those might or might not be holding prestige, check. Usually, they would pay better. Apart from that, make sure what kind of postdoc are you expected to do there. Is it really focused on research (nothing else would count)? Would you be able to fill the checklist (e.g., get a meaningful letter from someone appreciated in academia)?
+Some areas may have real postdocs with institutes or companies. Those might or might not be holding prestige, check. Usually, they would pay better and have more resources (for human evaluation or GPUs) but less access to students to guide, check this as well, it changes a lot by each place. Apart from that, make sure what kind of postdoc are you expected to do there. Is it really focused on research (nothing else would count)? Would you be able to fill the checklist (e.g., get a meaningful letter from someone appreciated in academia)?
 
 ## Recommended Sources:
   TBD  

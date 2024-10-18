@@ -76,3 +76,7 @@ Author: Leshem Choshen [Site](https://ktilana.wixsite.com/leshem-choshen) [Twitt
 
 Site [url](https://borgr.github.io/post/)  
 [Github](https://github.com/borgr/post/)  
+Other resources you might be interested:
+[Writing tips](https://docs.google.com/document/d/14Wax8M5w8F_8miDlYJ9-I6wqpelxlXjCEUbkNzNMqqE/edit?usp=sharing)
+[Graphics tips](https://docs.google.com/document/d/14Wax8M5w8F_8miDlYJ9-I6wqpelxlXjCEUbkNzNMqqE/edit#heading=h.fv6vuhpwm1a7)
+[Paper summaries](https://x.com/LChoshen) 

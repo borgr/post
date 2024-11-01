@@ -62,7 +62,16 @@ Postdoc roles vary a bit more than a degree. Still, there are 3 main types of po
 **Advise** -- Mostly in large labs, postdocs act as the ones leading research and advising, it offers a lot of freedom and little help or intervention from above. Remember, you are still expected to publish at least a bit as a first (or last?) author.  
 
 ## Time
+### Should I do it now?
+PhDs are often flexible in length, should I move on. Well, what are your goals? If you are planning an academic career, it is likely that the amount of years you are doing the PhD doesn't matter, but the overall outcomes do, so maybe worth taking your time (make sure with someone from your field). However, maybe you move to a PhD to do something different and new, in that case, maybe waiting won't change much and you will just lose a part of your life. Of course, there are money issues, staying is most likely less profitable from the one year at the end of your career that you are missing, unless it opens a different opportunity for a different job, so, is it? Last, if you are reading this guide, maybe you had enough, time to go on then...
+This is a new section, did you have different questions? still left open. Maybe write an issue, email me or DM on social media?
+
+### how much in advance?
 With some luck, you can move in **3 months**. However, if you find your best match but they have no money, sometimes you can apply for a grant together. For this, **about a year** in advance may help you. Also note fellowships are submitted once a year, so you need to time that as well. Last, note that some places would require you to have the Ph.D. approved and not only submitted which may take many months, check that in advance.
+
+### How long should I do it?
+Enough to make a difference. There is a reason pushing you towards a postdoc, if it is just writing grants, a year would suffice, but for most, the reason is to create something big, or have real experience in something new, in CS this likely requires at least two years. A point to remember there, if you apply for faculty, it takes a year (and a lot of time during that year), so that time is less productive and you also want to already have achievements at this point, a year before the end of your postdoc.
+
 ## Money
 Apply early for Scholarships, it is worth it for the prestige, and maybe the money. If you got one, it might be worth revisiting the places you wanted to go to and couldn't or didn't answer, maybe with the funds (even partial ones) it might be easier to open a position and acquire the rest of the funds (matching).
 Look for fellowship related to your background (e.g., women's), to the place you are looking for (e.g., Fullbright if you got to the US), and also to places you consider going to (many universities or institutions have fellowships (e.g., NYU center of data science).

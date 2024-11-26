@@ -46,6 +46,7 @@ You don't need all of those, but those are advantages that might be good to tick
 ### Post's Effect -- Post Being Hired
 As a professor, you would apply for (non-anonymous) grants of all sorts. The committee members would not be necessarily from your sub-field or even from your field, depending on who are you competing against, and you probably have less advantage as you compete against more. So the committee members would not know your supervisor, and they might not know if your research is impressive, they would know how many citations you had, and that you have been to Stanford. So for this, location is much more important than the supervisor's name (although letters might still count for some steps in the way).
 ## Contact Potential hosts
+A precursor, postdoc, in most cases is much more like a startup than a corporate job. There are no rules, there are no open positions and there is no process, you need to go out there, to try, to build on connections, slim chances and luck. Go try:
 ### Writing Emails
 Know why you chose the host, say what makes you special and also what makes them special for you. Generic emails (and apparently mentioning a paper or two is still generic for professors).
 If you have a connection who can introduce you or you already know the host, it is always better.
